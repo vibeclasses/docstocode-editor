@@ -1,0 +1,7 @@
+{
+  "dataFolder": ".docsToCode",
+  "schemaValidation": true,
+  "autoBackup": true,
+  "yourExtension.testMode": true,
+  "yourExtension.logLevel": "debug"
+}
